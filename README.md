@@ -7,4 +7,4 @@ Script ini adalah script Bash sederhana yang dirancang untuk memeriksa apakah su
 Pastikan Anda memberikan izin eksekusi pada skrip sebelum digunakan:
 
 ```bash
-chmod +x prime.sh
+chmod +x prima.sh
